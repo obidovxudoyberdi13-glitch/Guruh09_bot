@@ -1,1 +1,1 @@
-guruh_bot-1.py
+worker: python guruh_bot-1.py
